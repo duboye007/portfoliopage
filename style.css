@@ -1,0 +1,248 @@
+html{
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+nav{
+    background-color: rgba(119, 136, 153, 0.253);
+    min-width: 500px;
+    min-height: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: mediumaquamarine;
+    font-size: 1.5rem;
+}
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: rgb(179, 219, 219);
+}
+
+p{
+    text-align: center;
+    padding-top:3px;
+    color: rgb(179, 219, 219);
+}
+
+.container{
+    width: 1000px;
+    min-height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+
+.container-skill{
+    background-image: url(images/pexels-plain.jpeg);
+    width: 1000px;
+    min-height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+.container-hobby{
+    background-image: url(images/pexels-hobby2.jpeg);
+    background-size: cover;
+    width: 1000px;
+    min-height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+.container-edu{
+    background-image: url(images/pexels-skill.jpeg);
+    background-size: cover;
+    width: 1000px;
+    min-height: 500px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 30px;
+}
+
+
+.navbutton{
+    display: inline-block;
+    padding-left: 70px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+}
+
+
+.box1{
+    width: 500px;
+    min-height:100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+}
+
+.box2{
+    width: 400px;
+    min-height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-bottom: 10px;
+}
+
+.box3{
+    width: 500px;
+    min-height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.box4{
+    width: 500px;
+    min-height: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.mine{
+    padding-top: 15px;
+}
+
+.box-1{
+    width:500px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.box-11{
+width:500px;
+height: 150px;
+margin-top: 10px;
+margin-left: 396px;
+}
+
+.box-2{
+    background-color: gray;
+    width:900px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.box-22{
+    width:900px;
+    min-height: 50px;
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.box-3{
+    background-color: gray;
+    width:900px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.box-4{
+    background-color: gray;
+    width:900px;
+    min-height: 50px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.edu{
+    padding-top: 30px;
+    padding-left:20px;
+    text-align: unset;
+    font-size: 100px;
+}
+
+.edu-skill{
+    padding-top: 30px;
+    padding-left:250px;
+    text-align: unset;
+    font-size: 100px;
+}
+
+.pp{
+    text-align: unset;
+    color: hotpink;
+    padding-left: 20px;
+}
+
+.qq{
+    text-align: unset;
+    color: white;
+    padding-left: 20px;
+    font-size: 30px;
+}
+
+.skill{
+    text-align: right;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: lightyellow;
+}
+
+.html {
+    width: 90%;
+    background-color: green;
+}
+
+.css {
+    width: 70%;
+    background-color: rgb(11, 26, 240);
+}
+
+.comm {
+    width: 60%;
+    background-color: rgb(233, 236, 10);
+}
+
+.list{
+    font-size: 30px;
+}
+
+.navtag{
+    background-color: rgba(94, 81, 81, 0.514);
+    border: 1px solid;
+    margin: 5px;
+    padding: 5px 5px;
+    margin-left: -30px;
+}
+
+.icon{
+    display: flex;
+    justify-content: center;
+}
+
+.iconx{
+    padding-right: 20px;
+}
+
+.icony{
+    padding-right: 20px;
+}
+
+.iconz{
+    padding-right: 20px;
+}
